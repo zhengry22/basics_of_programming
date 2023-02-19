@@ -1,0 +1,4 @@
+3
+3 TL LIT P2 
+2 JMP P2 
+6 P1 P2 TR TR P2 TR 

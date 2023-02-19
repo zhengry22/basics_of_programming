@@ -1,0 +1,128 @@
+array main:
+a.txt
+array save:
+array main:
+a.txt
+b.txt
+array save:
+array main:
+a.txt
+b.txt
+array save:
+dir1
+array main:
+dir1
+c.txt
+array save:
+array main:
+dir1
+c.txt
+d.txt
+array save:
+array main:
+dir1
+c.txt
+d.txt
+array save:
+dir3
+array main:
+dir1
+c.txt
+d.txt
+array save:
+dir3
+dir4
+array main:
+a.txt
+b.txt
+array save:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+array main:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+array save:
+dir3
+dir4
+dir5
+array main:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+array save:
+dir3
+dir4
+dir5
+dir6
+array main:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+e.txt
+array save:
+dir3
+dir4
+dir5
+dir6
+array main:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+e.txt
+f.txt
+array save:
+dir3
+dir4
+dir5
+dir6
+array main:
+a.txt
+b.txt
+g.txt
+array save:
+dir1
+c.txt
+d.txt
+dir3
+dir4
+dir2
+e.txt
+f.txt
+dir3
+dir4
+dir5
+dir6
+
+
+  a.txt
+  b.txt
+  g.txt
+  dir1
+    c.txt
+    d.txt
+    dir3
+    dir4
+  dir2
+    e.txt
+    f.txt
+    dir3
+    dir4
+    dir5
+    dir6

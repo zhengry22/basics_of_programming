@@ -1,0 +1,4 @@
+3
+2 MOV JMP 
+2 TL LIT 
+4 LIT JMP JMP TL 

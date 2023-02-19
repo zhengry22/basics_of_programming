@@ -1,0 +1,5 @@
+4
+5 P3 MOV MOV MOV P1 
+3 P3 TR P2 
+3 TL JMP JMP 
+1 TR 

@@ -1,0 +1,4 @@
+1
+1 P1 
+4 LIT JMP MOV MOV 
+

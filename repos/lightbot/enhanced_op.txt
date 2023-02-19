@@ -1,0 +1,5 @@
+4
+3 p1 p2 p3 
+4 jmp mov tr tl 
+4 jmp mov tr call 
+4 tr tl mov mov 
